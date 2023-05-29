@@ -1,4 +1,6 @@
 # IPL-Prediction
+![wp12232105-2023-ipl-wallpapers](https://github.com/Ritesh778/IPL-Prediction/assets/98031410/b3ed26fe-975c-4027-9d8b-5e67a8fe285d)
+
 Welcome to the IPL Prediction Repository! This repository is dedicated to providing accurate and insightful predictions for the Indian Premier League (IPL). Whether you're a die-hard cricket fan, a casual observer, or someone looking to make informed decisions while participating in IPL fantasy leagues, this repository is your go-to source for data-driven forecasts.
 
 Led by a team of seasoned data scientists and cricket enthusiasts, our prediction models utilize advanced statistical algorithms, machine learning techniques, and historical data analysis to generate predictions that aim to capture the complex dynamics of IPL matches. We are committed to delivering reliable and precise forecasts, helping you stay one step ahead of the game.
